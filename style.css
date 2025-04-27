@@ -1,0 +1,25 @@
+body
+{
+    background-image: linear-gradient(100deg, #575656, #062e3f);
+}
+.Work-Font
+{
+    font-family: "Work Sans", sans-serif;
+}
+.btns iconify-icon
+{
+    font-size: 20px;
+}
+.btns button
+{
+    transition: ease-in-out 0.5s;
+}
+.btns button:hover
+{
+    box-shadow: 0 0 4px #6d6b6bce, 0 0 8px #6d6b6bce, 0 0 12px #6d6b6bce;
+    transition: ease-in-out 0.5s;
+}
+input:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0px 1000px #181818 inset !important;
+    -webkit-text-fill-color: #9CA3AF !important;
+}
